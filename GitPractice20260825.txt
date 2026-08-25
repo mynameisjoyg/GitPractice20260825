@@ -1,2 +1,2 @@
-Insert line 1.
+Modify line 1.
 Insert line 2.
